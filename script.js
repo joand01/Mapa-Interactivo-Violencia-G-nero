@@ -336,7 +336,6 @@ window.onload = function () {
 
     const ctx = document.getElementById('pieChart').getContext('2d');
     const colors = Array.from(Array(5).keys().map((x) => mixHexColors(hotColor, coldColor, x * 0.2)));
-    console.log(colors);
 
     const data = {
         labels: ["Pareja", "Familiar", "Escolar", "Trabajo", "Comunitario"],
@@ -436,6 +435,7 @@ window.onload = function () {
 
             state.classList.add("selected");
             pieTitle.innerText = `Subdivisión de las personas afectadas (${state.getAttribute("name")}) según el tipo de violencia`;
+            console.log(pieTitle.innerText);
 
             chart.data.datasets[0].data = data.labels.map(param => dataset[name][param]);
             chart.update();
