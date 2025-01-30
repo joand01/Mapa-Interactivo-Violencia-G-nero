@@ -1,0 +1,110 @@
+body {
+  font-family: 'Candara';
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.heatmap {
+  width: 50%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.pieChartContainer {
+  width: 370px;
+}
+
+.map-container {
+  margin: 0;
+  padding: 0;
+  display:inline-block;
+}
+
+.map-graphic {
+  width: 100%;
+  height: auto;
+}
+
+.container2 {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.selected {
+  stroke: aquamarine;
+}
+
+svg, svg * {
+  pointer-events: all;
+}
+
+.state {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.description {
+  pointer-events: none;
+  position: absolute;
+  font-size: 18px;
+  text-align: center;
+  background: #f7f7f7;
+  padding: 10px 15px;
+  z-index: 5;
+  height: 30px;
+  line-height: 15px;
+  margin: 0 auto;
+  color: #2c242d;
+  border-radius: 5px;
+  box-shadow: 0 0 0 1px #717171;
+  transform: translateX(-50%);
+  visibility: hidden;
+}
+
+.description.active {
+  visibility: visible;
+}
+
+.description:after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  width: 0;
+  height: 0;
+  margin-left: -10px;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #f7f7f7;
+}
+
+@media (max-width:641px)  { 
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .heatmap {
+    width: 100%;
+  }
+
+  .container2 {
+    width: 100%;
+  }
+
+  .pieChartContainer {
+    width: 70%;
+  }
+}
+

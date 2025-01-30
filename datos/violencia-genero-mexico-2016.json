@@ -1,0 +1,258 @@
+{
+    "Aguascalientes": {
+        "Total": 53.6,
+        "Pareja": 33.0,
+        "Familiar": 12.5,
+        "Escolar": 20.0,
+        "Trabajo": 28.1,
+        "Comunitario": 28.7
+    },
+    "Baja California": {
+        "Total": 40.7,
+        "Pareja": 19.6,
+        "Familiar": 7.8,
+        "Escolar": 13.3,
+        "Trabajo": 21.5,
+        "Comunitario": 21.0
+    },
+    "Baja California Sur": {
+        "Total": 34.2,
+        "Pareja": 19.4,
+        "Familiar": 6.8,
+        "Escolar": 14.0,
+        "Trabajo": 16.7,
+        "Comunitario": 13.9
+    },
+    "Campeche": {
+        "Total": 35.7,
+        "Pareja": 19.5,
+        "Familiar": 8.9,
+        "Escolar": 14.9,
+        "Trabajo": 15.7,
+        "Comunitario": 17.1
+    },
+    "Coahuila": {
+        "Total": 46.5,
+        "Pareja": 27.1,
+        "Familiar": 11.6,
+        "Escolar": 18.9,
+        "Trabajo": 30.0,
+        "Comunitario": 21.8
+    },
+    "Colima": {
+        "Total": 41.2,
+        "Pareja": 24.8,
+        "Familiar": 9.7,
+        "Escolar": 10.4,
+        "Trabajo": 18.4,
+        "Comunitario": 19.3
+    },
+    "Chiapas": {
+        "Total": 32.4,
+        "Pareja": 17.6,
+        "Familiar": 7.6,
+        "Escolar": 13.6,
+        "Trabajo": 18.4,
+        "Comunitario": 14.8
+    },
+    "Chihuahua": {
+        "Total": 46.8,
+        "Pareja": 27.3,
+        "Familiar": 9.8,
+        "Escolar": 16.6,
+        "Trabajo": 28.4,
+        "Comunitario": 23.0
+    },
+    "Ciudad de México": {
+        "Total": 55.1,
+        "Pareja": 28.0,
+        "Familiar": 9.7,
+        "Escolar": 19.7,
+        "Trabajo": 22.8,
+        "Comunitario": 37.0
+    },
+    "Durango": {
+        "Total": 47.0,
+        "Pareja": 27.9,
+        "Familiar": 12.4,
+        "Escolar": 17.1,
+        "Trabajo": 27.6,
+        "Comunitario": 22.5
+    },
+    "Guanajuato": {
+        "Total": 42.6,
+        "Pareja": 23.7,
+        "Familiar": 8.8,
+        "Escolar": 18.0,
+        "Trabajo": 22.3,
+        "Comunitario": 22.2
+    },
+    "Guerrero": {
+        "Total": 36.4,
+        "Pareja": 22.6,
+        "Familiar": 9.2,
+        "Escolar": 14.9,
+        "Trabajo": 18.5,
+        "Comunitario": 14.4
+    },
+    "Hidalgo": {
+        "Total": 43.2,
+        "Pareja": 25.3,
+        "Familiar": 10.8,
+        "Escolar": 16.3,
+        "Trabajo": 21.8,
+        "Comunitario": 19.3
+    },
+    "Jalisco": {
+        "Total": 52.0,
+        "Pareja": 30.0,
+        "Familiar": 12.8,
+        "Escolar": 20.5,
+        "Trabajo": 25.5,
+        "Comunitario": 28.3
+    },
+    "México": {
+        "Total": 53.3,
+        "Pareja": 31.0,
+        "Familiar": 12.3,
+        "Escolar": 17.4,
+        "Trabajo": 23.6,
+        "Comunitario": 30.8
+    },
+    "Michoacán": {
+        "Total": 44.0,
+        "Pareja": 26.9,
+        "Familiar": 12.3,
+        "Escolar": 20.5,
+        "Trabajo": 22.6,
+        "Comunitario": 18.5
+    },
+    "Morelos": {
+        "Total": 44.5,
+        "Pareja": 25.2,
+        "Familiar": 9.9,
+        "Escolar": 18.4,
+        "Trabajo": 22.3,
+        "Comunitario": 21.7
+    },
+    "Nayarit": {
+        "Total": 38.9,
+        "Pareja": 24.0,
+        "Familiar": 9.5,
+        "Escolar": 14.1,
+        "Trabajo": 16.3,
+        "Comunitario": 15.5
+    },
+    "Nuevo León": {
+        "Total": 38.9,
+        "Pareja": 19.0,
+        "Familiar": 6.9,
+        "Escolar": 17.3,
+        "Trabajo": 20.2,
+        "Comunitario": 22.6
+    },
+    "Oaxaca": {
+        "Total": 39.7,
+        "Pareja": 24.7,
+        "Familiar": 11.3,
+        "Escolar": 17.8,
+        "Trabajo": 18.6,
+        "Comunitario": 14.8
+    },
+    "Puebla": {
+        "Total": 44.0,
+        "Pareja": 25.3,
+        "Familiar": 11.1,
+        "Escolar": 17.5,
+        "Trabajo": 22.0,
+        "Comunitario": 21.6
+    },
+    "Querétaro": {
+        "Total": 49.9,
+        "Pareja": 26.4,
+        "Familiar": 11.5,
+        "Escolar": 18.8,
+        "Trabajo": 28.9,
+        "Comunitario": 28.5
+    },
+    "Quintana Roo": {
+        "Total": 46.1,
+        "Pareja": 25.2,
+        "Familiar": 10.0,
+        "Escolar": 18.2,
+        "Trabajo": 24.7,
+        "Comunitario": 24.8
+    },
+    "San Luis Potosí": {
+        "Total": 38.1,
+        "Pareja": 23.4,
+        "Familiar": 9.0,
+        "Escolar": 13.0,
+        "Trabajo": 18.3,
+        "Comunitario": 18.8
+    },
+    "Sinaloa": {
+        "Total": 38.5,
+        "Pareja": 23.0,
+        "Familiar": 9.8,
+        "Escolar": 16.3,
+        "Trabajo": 21.1,
+        "Comunitario": 16.1
+    },
+    "Sonora": {
+        "Total": 39.7,
+        "Pareja": 23.3,
+        "Familiar": 8.7,
+        "Escolar": 14.3,
+        "Trabajo": 20.2,
+        "Comunitario": 18.6
+    },
+    "Tabasco": {
+        "Total": 35.6,
+        "Pareja": 21.5,
+        "Familiar": 8.1,
+        "Escolar": 13.8,
+        "Trabajo": 16.5,
+        "Comunitario": 16.7
+    },
+    "Tamaulipas": {
+        "Total": 37.3,
+        "Pareja": 19.5,
+        "Familiar": 8.1,
+        "Escolar": 17.1,
+        "Trabajo": 20.6,
+        "Comunitario": 19.9
+    },
+    "Tlaxcala": {
+        "Total": 41.7,
+        "Pareja": 24.7,
+        "Familiar": 10.0,
+        "Escolar": 15.9,
+        "Trabajo": 21.2,
+        "Comunitario": 18.7
+    },
+    "Veracruz": {
+        "Total": 41.3,
+        "Pareja": 24.3,
+        "Familiar": 11.1,
+        "Escolar": 18.5,
+        "Trabajo": 20.9,
+        "Comunitario": 19.6
+    },
+    "Yucatán": {
+        "Total": 45.8,
+        "Pareja": 27.7,
+        "Familiar": 9.1,
+        "Escolar": 17.1,
+        "Trabajo": 19.3,
+        "Comunitario": 22.6
+    },
+    "Zacatecas": {
+        "Total": 39.8,
+        "Pareja": 26.3,
+        "Familiar": 9.5,
+        "Escolar": 20.2,
+        "Trabajo": 22.9,
+        "Comunitario": 16.4
+    }
+}
