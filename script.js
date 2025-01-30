@@ -291,6 +291,7 @@ window.onload = function () {
     const features = document.getElementById('features');
     const dataSelector = document.getElementById('data-sel');
     const description = document.getElementsByClassName("description")[0];
+    const pieTitle = document.getElementById("pie-title");
 
     const coldColor = '#2c242d';
     const hotColor = '#d190f1';
@@ -324,13 +325,6 @@ window.onload = function () {
             default:
             case "vg-2016": dataset = violencia_gen_mex_2016; break;
             case "vg-2021": dataset = violencia_gen_mex_2021; break;
-        }
-
-        switch (dataSelector.value.split("-")) {
-            default:
-            case "vg":
-                console.log("Violencia de género");
-                break;
         }
 
         setHeatmapNumberData(dataset, coldColor, hotColor);
@@ -441,6 +435,7 @@ window.onload = function () {
             }
 
             state.classList.add("selected");
+            pieTitle.innerText = `Subdivisión de las personas afectadas (${state.getAttribute("name")}) según el tipo de violencia`;
 
             chart.data.datasets[0].data = data.labels.map(param => dataset[name][param]);
             chart.update();
